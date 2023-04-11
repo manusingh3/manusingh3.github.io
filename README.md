@@ -1,6 +1,6 @@
 <h2> A little about me </h2>
 
-I am a graduate student at Columbia University in the [Political Science](https://polisci.columbia.edu/content/manu-singh) department. Before this, I was a Research Specialist II at the [Empirical Studies of Conflict](https://esoc.princeton.edu/) group at Princeton University. I have also consulted at UN OCHA [Centre for Humanitarian Data](https://data.humdata.org/) as their predictive analytics fellow. I got my Master of Arts degree from Columbia University in Applied Statistics with a Data Science Concentration.  
+I am a doctoral candidate at Columbia University in the [Political Science](https://polisci.columbia.edu/content/manu-singh) department. Before this, I was a Research Specialist II at the [Empirical Studies of Conflict](https://esoc.princeton.edu/) group at Princeton University. I have also consulted at UN OCHA [Centre for Humanitarian Data](https://data.humdata.org/) as their predictive analytics fellow. I got my Master of Arts degree from Columbia University in Applied Statistics with a Data Science Concentration.  
 
 As a quantitative researcher, I see unprecedented opportunities to advance classic social sciences. I aspire to be part of an emerging class of scholars that are grounded in theory and can leverage advancements in big data, remote sensing, social media channels, and statistical tools to understand our society in a whole new light.
 
