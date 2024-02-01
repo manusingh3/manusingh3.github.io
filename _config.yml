@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Manu Singh
 description: PhD Candidate
-logo: https://www.dropbox.com/scl/fi/p103pyabu609tq0iypagb/manu_white_background.png?rlkey=tg6mstvpmnegiigjgfskvocln&dl=0
+logo: "/images/manu_white_background.png"
 show_downloads: false
