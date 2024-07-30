@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Manu Singh Burson"
+title                    : "Manu Burson, Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Manu"
 description              : &description "Computational Social Scientist"
@@ -22,9 +22,9 @@ repository               : "manusingh3/manusingh3.github.io"
 author:
   # Biographic information
   avatar           : "00517.JPG"
-  name             : "Computational Social Scientist"
+  name             : "Manu Singh Burson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Computational Social Scientist"
   location         : "New York"
   employer         : "Columbia University"
   uri              : # URL
