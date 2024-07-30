@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+author_profile: true
 ---
 
 <h2> A little about me </h2>
