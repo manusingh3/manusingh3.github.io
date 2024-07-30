@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
+The latest copy of my resume is [here](https://www.dropbox.com/scl/fi/zqzi3hxmyq2qa5qt5fgf0/resume_MS_2024_OT.pdf?rlkey=5yoqr456nqaped9x0cjd2gpks&dl=0)
