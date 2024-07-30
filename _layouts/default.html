@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -12,26 +11,31 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <style>
+      .top-nav {
+        float: right;
+        margin-top: 20px;
+      }
+      .top-nav a {
+        margin-left: 20px;
+        color: #267CB9;
+        text-decoration: none;
+      }
+      .top-nav a:hover {
+        text-decoration: underline;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        
-        
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-         <p class="view"><a href="{{ site.baseurl }}/research">Research</a></p>
-
-
-
-
-       
-
-
-
-
-
-        
+        <div class="top-nav">
+          <a href="{{ '/' | absolute_url }}">Home</a>
+          <a href="{{ '/research' | absolute_url }}">Research</a>
+          <a href="{{ '/contact' | absolute_url }}">Contact</a>
+        </div>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -39,13 +43,13 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        
-
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-      
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
