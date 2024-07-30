@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+### Social media bots influence political news coverage
+#### Winner of best student paper in the Information Technology, & Politics section at American Political Science Association
+ My paper examines how fake social media accounts boost politicians' online popularity and this phenomenon's subsequent spillover on traditional news coverage. Using the 'Botometer' algorithm, I assessed the proportion of bot accounts engaging with tweets from 382 U.S. Congress members on Twitter. A policy change to Twitter's API infrastructure in late November 2022 was an exogenous shock to the platform that significantly hampered bot functionality. My first-stage analysis demonstrated that this policy change only affected high-bot-engagement politicians, who saw a substantial decline in followers after November 2022. Placebo comparisons show this decline was not observed in comparable data from Facebook 'likes' or Instagram followers. My second-stage analysis found that after the policy change, high-bot-engagement politicians also saw a decline in popularity in online news articles and broadcast news from December 2022 to February 2024.
+
+ 
+ 
+
+
 ### New Evidence on the Effects of Randomly Assigned Reservations for Women Leaders in Indian Local Government (with Donald Green and Gaurav Sood)
 
 Influential early studies of reservations for women in India’s local government bodies, like the Gram Panchayat, showed them to have important policy consequences. Outcomes such as local budget allocations seemed to shift as women suddenly entered leadership roles. Specifically, Gram Panchayats, where the role of the Pradhan was reserved for women, tended to allocate more resources to areas that women are thought to be especially concerned about, such as drinking water, sanitation, and maternal care. This paper revisits the ongoing naturally occurring experiment of reservations for women in India's Gram Panchayats, focusing on Rajasthan, where reservations have been assigned by lottery (in most districts) since the 1990s. We focus on the effects of reservations in two election cycles, 2005 and 2010. Our dataset consists of 5,191 Gram Panchayats, which is more than 50 times larger than the original study of Rajasthan.
