@@ -21,7 +21,7 @@ repository               : "manusingh3/manusingh3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/00517.JPG"
+  avatar           : "00517.JPG"
   name             : "Manu Singh Burson"
   pronouns         : # example: "she/her"  
   bio              : "Computational Social Scientist"
