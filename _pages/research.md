@@ -11,7 +11,7 @@ Influential early studies of reservations for women in India’s local governmen
 Using administrative data for outcomes, including some of the same public works spending measures used by the authors of the original study, we find no evidence of substantively meaningful effects on the scale or content of public works programs, even in domains such as drinking water, sanitation, and maternal care.  Censuses of local health, infrastructure, and schooling also show no apparent effects. 
 We find no evidence of effects on budget allocations or Census outcomes even when comparing Gram Panchayats that were reserved for women for four successive 5-year terms starting in 2005 to their counterparts that were never reserved for women during this period. Nor do we find effects when examining public works allocations in a different state, Uttar Predesh.  We conclude by discussing possible explanations for this pattern of null findings.
 
-[Prelimnary Draft]([https://osf.io/ezp53/](https://www.dropbox.com/scl/fi/ug1zkffj7ggr11e6l54tj/india_reservation.pdf?rlkey=310izd42eypifotmhxe2ouk6l&dl=0)
+[Prelimnary Draft]([https://osf.io/ezp53/](https://www.dropbox.com/scl/fi/ug1zkffj7ggr11e6l54tj/india_reservation.pdf?rlkey=310izd42eypifotmhxe2ouk6l&dl=0))
 
 ### Can music concerts boost nationalist identity? (with Dejan Kovac and Jacob Shapiro) 
 
