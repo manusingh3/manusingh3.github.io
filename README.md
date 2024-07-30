@@ -6,5 +6,5 @@ As a quantitative researcher, I see unprecedented opportunities to advance class
 
 My research interests include **social media, political communication, electoral politics, geospatial data analysis, bayesian statistics, causal inference, and machine learning.**
 
-The latest copy of my resume is [here]([https://www.dropbox.com/scl/fi/aeumdvlp8samqjsc4db2d/resume_MS_2023_1.pdf?rlkey=atmp12zfzsjf185sjtjbdv8wf&dl=0](https://www.dropbox.com/scl/fi/zqzi3hxmyq2qa5qt5fgf0/resume_MS_2024_OT.pdf?rlkey=5yoqr456nqaped9x0cjd2gpks&dl=0))
+The latest copy of my resume is [here](https://www.dropbox.com/scl/fi/zqzi3hxmyq2qa5qt5fgf0/resume_MS_2024_OT.pdf?rlkey=5yoqr456nqaped9x0cjd2gpks&dl=0)
 
