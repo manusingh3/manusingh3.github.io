@@ -2,4 +2,7 @@ theme: jekyll-theme-minimal
 title: Manu Singh
 description: PhD Candidate
 logo: "/images/00517.JPG"
+pages:
+  - index.html
+  - newtab.md
 show_downloads: false
