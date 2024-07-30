@@ -1,15 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-    ---
+title: "Bio"
+permalink: /Bio/
+---
 
 <h2> A little about me </h2>
 
