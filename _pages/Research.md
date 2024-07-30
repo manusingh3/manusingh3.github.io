@@ -1,7 +1,0 @@
----
-title: "Research"
-permalink: /Research/
----
-## Can music concerts boost nationalist identity?
-
-Music and large-scale public events have long been used as part of nationalist projects, but their impact is unclear as those who engage may do so to express preexisting beliefs.  We study whether attending nationalist concerts heighten nationalist identity in Croatia, where consumer behavior, i.e., purchase of nationally branded goods labeled _Authentic Croatian_ or _Croatian Quality_, provides a high frequency, individual-level revealed preference measure of nationalist identity. We first show a robust positive correlation at the store level between such goods and votes for right-wing political parties, which emphasize Croatian national identity. We then use loyalty card tracking to identify individuals who likely traveled to attend nationalist or non-nationalist music concerts. Using a regression discontinuity in time (RDiT) design, we show that attending concerts by a highly-political nationalist artist leads to an approximately three percentage point increase in the share of nationally branded goods purchased, a 17\% increase from the mean, and a 0.19 standard deviation treatment effect. We find no similar impact on consumption after attending non-nationalist concerts or for attending concerts by a Herzegovinian singer who sometimes performs with Croatian nationalist artists. 
