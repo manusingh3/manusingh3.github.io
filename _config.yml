@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
-title: Manu Singh Burson
-description: 
-logo: "/images/00517.JPG"
-pages:
-  - index.html
-  - research.md
-show_downloads: false
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
