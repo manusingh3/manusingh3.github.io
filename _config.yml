@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Manu Singh Burson"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/00517.JPG"
+  bio    : "Computational Social Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
