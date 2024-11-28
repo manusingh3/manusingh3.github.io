@@ -14,6 +14,6 @@ As a quantitative researcher, I see unprecedented opportunities to advance class
 
 My research interests include **Causal Inference, Machine Learning, Bayesian Statistics, Forecasting, Survey Methods, Geo-spatial Data Analysis, Experimental Methods, Social Media, and Political Behavior.**
 
-The latest copy of my resume is [here](https://www.dropbox.com/scl/fi/zqzi3hxmyq2qa5qt5fgf0/resume_MS_2024_OT.pdf?rlkey=5yoqr456nqaped9x0cjd2gpks&dl=0)
+The latest copy of my resume is [here](https://www.dropbox.com/scl/fi/w03s9afcivt22h49m7z89/MSB_CV_Nov2024.pdf?rlkey=cdss6b26lc03z0v4za102qttm&st=72c7p936&dl=0)
 
 
