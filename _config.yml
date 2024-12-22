@@ -7,13 +7,14 @@
 # server process.
 
 # Basic Site Settings
+remote_theme             : academicpages/academicpages.github.io
 locale                   : "en-US"
 title                    : "Manu Burson, Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Manu"
 description              : &description "Computational Social Scientist"
 url                      : https://manusingh3.github.io/
-baseurl                  : "https://manusingh3.github.io/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "manusingh3/manusingh3.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
