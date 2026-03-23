@@ -1,0 +1,33 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Node
+node_modules/
+
+# LaTeX auxiliary files (cv/ source compiles locally, only cv.pdf is committed)
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.toc
+cv/*.fls
+cv/*.fdb_latexmk
+cv/*.synctex.gz
+cv/*.bbl
+cv/*.blg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+*.sublime-project
+*.sublime-workspace
