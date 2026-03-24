@@ -267,7 +267,6 @@ defaults:
   # _talks
   - scope:
       path: ""
-      
       type: talks
     values:
       layout: talk
