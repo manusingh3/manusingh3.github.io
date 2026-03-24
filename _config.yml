@@ -9,7 +9,7 @@
 # Basic Site Settings
 remote_theme             : academicpages/academicpages.github.io
 locale                   : "en-US"
-title                    : "Manu Burson, Ph.D. Candidate"
+title                    : "Manu Burson, Ph.D."
 title_separator          : "-"
 name                     : &name "Manu"
 description              : &description "Computational Social Scientist"
